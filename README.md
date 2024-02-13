@@ -1,2 +1,8 @@
 # Primer-repo
-Este es mi primer Repositorio de prueba
+
+Primer repositorio en GITHUB.
+
+
+## Descripción
+
+Este es mi primer repositorio de prueba en GITHUB.
